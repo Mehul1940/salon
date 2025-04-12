@@ -1,0 +1,16 @@
+.toast {
+  background-color: #fff;
+  top: 32px;
+  border: 0;
+  font-size: 16px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex-grow: 1;
+}
